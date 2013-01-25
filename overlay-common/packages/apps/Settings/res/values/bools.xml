@@ -18,4 +18,7 @@
     <!-- No powercontrol widget for tablets -->
     <bool name="has_powercontrol_widget">true</bool>
 
+   <!-- For Device Options in Settings Menu -->
+   <bool name="has_advanced_settings">true</bool>
+
 </resources>
